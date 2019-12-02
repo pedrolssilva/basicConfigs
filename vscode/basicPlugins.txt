@@ -1,0 +1,8 @@
+Color Highlight => from Sergii Naumov
+Dracula Official => from Dracula Theme
+vscoce-icons => vscode team
+EditorConfig for VS Code => from EditorConfig
+ESLint => from Dirk Baeumer
+Prettier - Code Formatter => from Esben Petersen
+Rocketseat React Native => from Rocketseat
+Rocketseat ReactJS => from Rocketseat
