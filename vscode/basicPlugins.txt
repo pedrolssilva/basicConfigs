@@ -1,6 +1,6 @@
 Color Highlight => from Sergii Naumov
 Dracula Official => from Dracula Theme
-vscoce-icons => vscode team
+Material Icons Theme => from Philipp Kief
 EditorConfig for VS Code => from EditorConfig
 ESLint => from Dirk Baeumer
 Prettier - Code Formatter => from Esben Petersen
