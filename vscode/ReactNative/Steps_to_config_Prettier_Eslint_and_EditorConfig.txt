@@ -1,0 +1,24 @@
+1 - Run into the terminal: yarn add eslint -D
+
+2 - After process install run into the terminal: yarn eslint --init
+    * Choose: To check syntax, find problems, and enforce code style
+    * Choose: JavaScript modules (import/export)
+    * Choose: React
+    * Choose: y or N according to the project will be using typescript
+    * Choose: Browser or Node (if it's using react-native type space to unselect option)
+    * Choose: Use a popular style guide
+    * Choose: Airbnb
+    * Choose: JavaScript
+    * Choose: Y to accept and install all dependencies
+
+    ** After finished, remove the file package-json.lock in the root and run yarn in the terminal into the root folder (This will get all project dependencies and map in yarn files).
+
+3 - Add some dependencies into project using the following command in the terminal:
+    * > yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+
+4 - Copy and Paste the following files in root of project:
+    * .editorconfig
+    * .eslint.js
+    * .prettierrc
+
+*** That's all folks, let's code this spaceship ***
