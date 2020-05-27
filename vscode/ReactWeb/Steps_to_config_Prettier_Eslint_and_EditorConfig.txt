@@ -13,7 +13,11 @@
 
     ** After finished, remove the file package-json.lock in the root and run yarn in the terminal into the root folder (This will get all project dependencies and map in yarn files).
 
-3 - Copy and Paste the following files in root of project:
+3 - Add some dependencies into project using the following command in the terminal:
+    * > yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D
+
+
+4 - Copy and Paste the following files in root of project:
     * .editorconfig
     * .eslint.js
     * .prettierrc
