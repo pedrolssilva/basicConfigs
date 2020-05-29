@@ -22,4 +22,12 @@
     * .eslint.js
     * .prettierrc
 
+5 - If you are using React Hooks:
+    * > yarn add eslint-plugin-react-hooks -D
+    * At the file .eslint.js replace the plugin section for:
+        plugins: ['react', 'prettier', 'react-hooks'],
+    * At the file .eslint.js add follow lines into the rule section:
+        'react-hooks/rules-of-hooks': 'error',
+        'react-hooks/exhaustive-deps': 'warn',
+
 *** That's all folks, let's code this spaceship ***
