@@ -7,3 +7,5 @@ Prettier - Code Formatter => from Esben Petersen
 Rocketseat React Native => from Rocketseat
 Rocketseat ReactJS => from Rocketseat
 vscode-styled-components => Julien Poissonnier
+
+SQLite => alexcvzz: To show database and another features if the project uses a sqlite database.
