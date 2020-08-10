@@ -17,7 +17,8 @@
     "javascript": "jsx"
   },
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
+    "njk": "html"
   },
   "javascript.updateImportsOnFileMove.enabled": "never",
   "breadcrumbs.enabled": true,
