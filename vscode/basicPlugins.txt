@@ -9,3 +9,4 @@ Rocketseat ReactJS => from Rocketseat
 vscode-styled-components => Julien Poissonnier
 
 SQLite => alexcvzz: To show database and another features if the project uses a sqlite database.
+Nunjucks Template => eseom => Formatting, Syntax Highlighting, Hover, and Snippets for Nunjucks
