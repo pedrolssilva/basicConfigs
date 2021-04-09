@@ -7,10 +7,8 @@ Prettier - Code Formatter => from Esben Petersen
 Rocketseat React Native => from Rocketseat
 Rocketseat ReactJS => from Rocketseat
 vscode-styled-components => Julien Poissonnier
-
 SQLite => alexcvzz: To show database and another features if the project uses a sqlite database.
-<<<<<<< HEAD
-Nunjucks => ronnidc
-=======
+
 Nunjucks Template => eseom => Formatting, Syntax Highlighting, Hover, and Snippets for Nunjucks
->>>>>>> c538f3c224d848337e4bba8c5a7e7ae3cfb1c506
+  - Changed  Nunjucks Template by this =>Nunjucks => ronnidc
+  - Reason: for an undefined reason the Nunjucks Template extension does not recognize and highlight HTML tags in .njk files
