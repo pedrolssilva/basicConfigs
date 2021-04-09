@@ -18,7 +18,10 @@
   },
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-    "njk": "html"
+    "njk": "html",
+  },
+  "files.associations": {
+    "*.njk": "nunjucks",
   },
   "javascript.updateImportsOnFileMove.enabled": "never",
   "breadcrumbs.enabled": true,
