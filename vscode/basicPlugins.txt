@@ -14,4 +14,6 @@ Nunjucks Template => eseom => Formatting, Syntax Highlighting, Hover, and Snippe
   - Reason: for an undefined reason the Nunjucks Template extension does not recognize and highlight HTML tags in .njk files
   
 GitLens — Git supercharged => GiitKraken
+Rainbow Brackets => 2gua
+Docker => Microsoft
 
