@@ -21,11 +21,13 @@ SPACESHIP_PROMPT_ADD_NEW_LINE=false
 SPACESHIP_CHAR_SYMBOL=">"
 SPACESHIP_CHAR_SUFFIX=" "
 
-4: install zplugin for oh-my-zsh from https://github.com/zdharma/zplugin following the installation session
+4: install zplugin for oh-my-zsh from https://github.com/zdharma-continuum/zinit following the installation session
 
 4.1: open the file .zshrc(usually installed in / of current user) and paste this lines at end of file:
 zplugin light zsh-users/zsh-autosuggestions
 zplugin light zsh-users/zsh-completions
-zplugin light zdharma/fast-syntax-highlighting
+# zplugin light zdharma/fast-syntax-highlighting
+zplugin light zdharma-continuum/fast-syntax-highlighting
+
 
 4.2: open a new terminal to be downloaded and install the extensions above.
