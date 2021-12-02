@@ -12,3 +12,6 @@ SQLite => alexcvzz: To show database and another features if the project uses a 
 Nunjucks Template => eseom => Formatting, Syntax Highlighting, Hover, and Snippets for Nunjucks
   - Changed  Nunjucks Template by this =>Nunjucks => ronnidc
   - Reason: for an undefined reason the Nunjucks Template extension does not recognize and highlight HTML tags in .njk files
+  
+GitLens — Git supercharged => GiitKraken
+
