@@ -16,4 +16,7 @@ Nunjucks Template => eseom => Formatting, Syntax Highlighting, Hover, and Snippe
 GitLens — Git supercharged => GiitKraken
 Rainbow Brackets => 2gua
 Docker => Microsoft
-
+TabnineTabnine AI Autocomplete => TabNine
+Code Spell Checker => Street Side Software
+Portuguese - Code Spell Checker => Street Side Software
+ENV => Jakka Prihatna
