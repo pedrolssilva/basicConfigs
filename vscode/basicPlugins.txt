@@ -20,3 +20,4 @@ TabnineTabnine AI Autocomplete => TabNine
 Code Spell Checker => Street Side Software
 Portuguese - Code Spell Checker => Street Side Software
 ENV => Jakka Prihatna
+CSS Modules => clinyong
